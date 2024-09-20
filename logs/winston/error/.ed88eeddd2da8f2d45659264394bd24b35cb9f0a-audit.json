@@ -1,0 +1,125 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\cow_bazar\\logs\\winston\\error\\.ed88eeddd2da8f2d45659264394bd24b35cb9f0a-audit.json",
+    "files": [
+        {
+            "date": 1725618003644,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-06-09-16",
+            "hash": "acb086e89e85d0902b117f0b2b8a1b01dd7bd9d5c112bc1d40c8156200cd9427"
+        },
+        {
+            "date": 1725620989902,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-06-09-17",
+            "hash": "8c460dd74bce5fda802b8c4560909f9bc948c483fa5967c3f7d6970eeacb5806"
+        },
+        {
+            "date": 1725639111972,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-06-09-22",
+            "hash": "861c41cfebfe750fa237e5ce737e41f48bddac3e8482d67c495928d67b1d13fd"
+        },
+        {
+            "date": 1725691270965,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-07-09-12",
+            "hash": "1d82e3f69b75ba13e4837d0605ce5d99b80eb6fef504a258ec8aa972ea07c5b4"
+        },
+        {
+            "date": 1725692471193,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-07-09-13",
+            "hash": "a3be7c57d44ff811dd82db9c7d88617a9694c13d2b15d45a3d85b2d4c97a0de3"
+        },
+        {
+            "date": 1725697881087,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-07-09-14",
+            "hash": "bd559b7dc742fca637f0b1936efa5d4552b858e43ba636fa82fac00bf9423327"
+        },
+        {
+            "date": 1725699695559,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-07-09-15",
+            "hash": "ad2d3fa84418bd58d8ad9314120cadb0100baf3bec5dcd6c033e99f88ad84c4e"
+        },
+        {
+            "date": 1725703229141,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-07-09-16",
+            "hash": "06a43347108a494750a711f48d03e9a2b5f9265e377e560f86d16b81033d2a37"
+        },
+        {
+            "date": 1725774728233,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-08-09-11",
+            "hash": "4580bffae96545cf60fb0aaa8df1a1134dc4a37faaf39d204890f5021469b7df"
+        },
+        {
+            "date": 1725787105343,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-08-09-15",
+            "hash": "d47d367c41719ab1cdf65652d8bd1442565a7dd91ad542a6d01852a503246cc3"
+        },
+        {
+            "date": 1725790497393,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-08-09-16",
+            "hash": "546f77789a5d3cfc94b3a9b2ff13af1728414cbe97f9f845517fb5a278ab0132"
+        },
+        {
+            "date": 1725937293438,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-10-09-09",
+            "hash": "3843d3ee5e685a02fb3ce87b26b7a2b051d8619c6cf15bdac3efd1ef6ae0ee7d"
+        },
+        {
+            "date": 1726020029402,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-11-09-08",
+            "hash": "d88dbdad5778556436b03bead7ee441ed064806404579fdf18f9a48cb0990e39"
+        },
+        {
+            "date": 1726025560158,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-11-09-09",
+            "hash": "4d8be25635a284db84b5183245c0fc1d0f4b0bb2a0e67452fc526588ea4d043c"
+        },
+        {
+            "date": 1726464197159,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-11",
+            "hash": "1c0fa0841750a8a2d36b74e33b0a7f2ab14b577202ffa6f3126f344ca4457970"
+        },
+        {
+            "date": 1726466969539,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-12",
+            "hash": "88bf18cc9f9cfa1e25928276eff7f799cd576e14bf960a3d970d4df245a50453"
+        },
+        {
+            "date": 1726470377139,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-13",
+            "hash": "cafe06035e879a9733c40c12a27dcc73d70b05e93b379a4ee146a820a6cbba47"
+        },
+        {
+            "date": 1726478867166,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-15",
+            "hash": "46636b6fa665baa1f9768fce3058f15a8ff50c6dddc1755306cf405fa5038e27"
+        },
+        {
+            "date": 1726482777882,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-16",
+            "hash": "dfe1a72652c0beeb489e5e30d44822e8f7307ee1730e09d1577d929dcd9aa505"
+        },
+        {
+            "date": 1726484475589,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-17",
+            "hash": "288b584059324fcce1fe35c9359c5124d590f1b5352f5e6f0dea8a0cc8e1872e"
+        },
+        {
+            "date": 1726488088887,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-16-09-18",
+            "hash": "b1fd53fb3a013b99467b854d1536f88297bdecb048235a7382cb83c4af8b4702"
+        },
+        {
+            "date": 1726825127312,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-20-09-15",
+            "hash": "7e111fef9cc6264fee1e936c682d0803d36490a06bb23b7ecd24cd452c42eae9"
+        },
+        {
+            "date": 1726826561902,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\error\\[cow]-%Date%-error.log.2024-20-09-16",
+            "hash": "1a367117cead1705acb82a6702b191c07e28b6c1024ce230aa3ad0dde27bdb74"
+        }
+    ],
+    "hashType": "sha256"
+}

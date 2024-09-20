@@ -1,0 +1,125 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\cow_bazar\\logs\\winston\\success\\.2779bcca589db83b2d0038747f87df58fac601fa-audit.json",
+    "files": [
+        {
+            "date": 1725618003639,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-06-09-16",
+            "hash": "edcf9cbaa645c0a1b4088329b16ba8c60d9fb2b63244ee45cca1f57240b1af4b"
+        },
+        {
+            "date": 1725620989898,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-06-09-17",
+            "hash": "f11e71545cc5211fa56e6702612f14d2700e79757dde620ae48c50fff5b53efd"
+        },
+        {
+            "date": 1725639111964,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-06-09-22",
+            "hash": "24be018bc4d07794f4693b41286e0f61d0f958406637220ca8b8f60b409cef47"
+        },
+        {
+            "date": 1725691270955,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-07-09-12",
+            "hash": "31ee024fe1a981b06f71787b4d68066dbbd26f982d1e049efe6b6fae82687487"
+        },
+        {
+            "date": 1725692471187,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-07-09-13",
+            "hash": "a1a276d799d294a8e701783b6b1ab35ec693fcdad21ffcb995149cf2e75de8bb"
+        },
+        {
+            "date": 1725697881071,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-07-09-14",
+            "hash": "c22290c7fcd4bce2d0de650246d6b66605a5d56f2e900b243210669d1fa1bf68"
+        },
+        {
+            "date": 1725699695551,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-07-09-15",
+            "hash": "840707cb32696292ddbb90fdc158d96b4bc40c028b1640643c627840b6e5c90b"
+        },
+        {
+            "date": 1725703229135,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-07-09-16",
+            "hash": "753350af87dd90fe16870190f5f91e341c29b6bcac9117e1a3748d9769153f38"
+        },
+        {
+            "date": 1725774728228,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-08-09-11",
+            "hash": "1113b0c6238b07713d734c7cfe8805f609176b4907c1cbf787baafbbe9fa592a"
+        },
+        {
+            "date": 1725787105339,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-08-09-15",
+            "hash": "a3b610e4a3fdb00d98c542740dca88192f7283eb034b449e4d8351acb4d51105"
+        },
+        {
+            "date": 1725790497387,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-08-09-16",
+            "hash": "73791472fd892f102740f279b3094cb01b0b64ad372e21c90cbbf9cdb6ebe607"
+        },
+        {
+            "date": 1725937293429,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-10-09-09",
+            "hash": "ebd05b6b7896e29aaac3583009533148c8ce930020773024d57ef3d1ad606c65"
+        },
+        {
+            "date": 1726020029397,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-11-09-08",
+            "hash": "fb8c690fe38e3b223cbe7b7cda0b9bc074e3fdd3d658543d19f13c6905562047"
+        },
+        {
+            "date": 1726025560154,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-11-09-09",
+            "hash": "b698dbeca52c47220814f4bea3cb2cb2b8a501e1db860c57f1ce63745096aba4"
+        },
+        {
+            "date": 1726464197147,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-11",
+            "hash": "e23772d3e293780b26369d6f9c6c46cedadcf4d76c5a1c7910801ac6fdda789a"
+        },
+        {
+            "date": 1726466969531,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-12",
+            "hash": "847db58322fce08f0cd4eabc63ad2b87b80304f7477e608bb509b8729a263c2e"
+        },
+        {
+            "date": 1726470377132,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-13",
+            "hash": "02460e3af379f590ca33225c52ad1a86a784e4cf93c6272e543fe5d9e9d03d8c"
+        },
+        {
+            "date": 1726478867160,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-15",
+            "hash": "141c98a45fd134557c5919627ba5cf55f3cd523903a81ceeae050c8b3558b1f5"
+        },
+        {
+            "date": 1726482777877,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-16",
+            "hash": "4fdb8381ca0425e95f97e9968c26b0ab968b5ac0579c607777466c57be334c58"
+        },
+        {
+            "date": 1726484475585,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-17",
+            "hash": "4b477055d5716066df9a7f3ab2b7beb40a23714da280457a30ee86431d8b7f8c"
+        },
+        {
+            "date": 1726488088876,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-16-09-18",
+            "hash": "93aedba58166fef4874c58d6c9ec224c0550191f75a5756c7027aba49de151d1"
+        },
+        {
+            "date": 1726825127300,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-20-09-15",
+            "hash": "ac20d29d6459204f2d801c9bc7934c3fb9796e56faf0b08d40e00040ca724f60"
+        },
+        {
+            "date": 1726826561869,
+            "name": "D:\\practice\\cow_bazar\\logs\\winston\\success\\[cow]-%Date%-success.log.2024-20-09-16",
+            "hash": "fb9448f131816e99f557a22429620ca38ad751e8cf37b2816e4f3f69b3a4c67c"
+        }
+    ],
+    "hashType": "sha256"
+}
